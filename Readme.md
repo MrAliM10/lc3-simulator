@@ -42,7 +42,7 @@ To use this simulator, first compile the code you have written, and then:
 ```assembley
 ; This symbol is used for comments ;
 ; A program to calculate addition of numbers from 1 to N
-ORG x3000
+ORG 3000
 ; Initialize variables
 LD R0, INIT ; Load R0 with the initial value (1)
 LD R2, N ; Load R2 with loop size
@@ -55,12 +55,12 @@ BRn LOOP ; If counter negative (not reached 0), repeat loop
 ; Store the result (sum of numbers 1 to 100) in memory
 ST R1, RESULT ; Store the sum in memory location 'RESULT'
 ; Halt the program
-HALT
+  HALT
 ; Initialize variables
 INIT, DEC 1 ; Initial value for the loop (starting from 1)
 RESULT, DEC 0 ; Memory location to store the result
-N, DEC -100 ; Loop size initializer
-END
+N, DEC -100 ; Loop size initializer 
+   END
 ```
 
 ## Notes
