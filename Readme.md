@@ -9,7 +9,6 @@ Welcome to the **LC3 Simulator** *Qt based* project! This simulator emulates the
 - [Installation](#installation)
 - [How to use](#usage)
 - [Examples](#example)
-- [Contact](#contact)
 - [Notes](#notes)
 
 ## Introduction
