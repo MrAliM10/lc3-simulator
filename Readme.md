@@ -1,6 +1,6 @@
 # LC3 Simulator
 
-Welcome to the **LC3 Simulator** project! This simulator emulates the LC3 (Little Computer 3) architecture, providing a platform for running LC3 assembly programs. It is a great tool for students and professionals looking to understand computer architecture and low-level programming.
+Welcome to the **LC3 Simulator** *Qt based* project! This simulator emulates the LC3 (Little Computer 3) architecture, providing a platform for running LC3 assembly programs. It is a great tool for students and professionals looking to understand computer architecture and low-level programming.
 
 ## Table of Contents
 
