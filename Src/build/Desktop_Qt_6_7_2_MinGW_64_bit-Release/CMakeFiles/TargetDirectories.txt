@@ -1,0 +1,9 @@
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/SA_P1.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/SA_P1_autogen_timestamp_deps.dir
+C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/SA_P1_autogen.dir

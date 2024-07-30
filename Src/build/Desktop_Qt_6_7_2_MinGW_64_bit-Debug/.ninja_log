@@ -1,0 +1,27 @@
+# ninja log v6
+58	803	7421151748945474	SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+2756	8399	7420974819715476	CMakeFiles/SA_P1.dir/main.cpp.obj	20d9554c32ea6f20
+58	803	7421151748945474	SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+58	803	7421151748945474	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+58	803	7421151748945474	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+2750	8430	7420974819665461	CMakeFiles/SA_P1.dir/SA_P1_autogen/mocs_compilation.cpp.obj	6a8212f322208e0c
+805	20579	7421151756407890	CMakeFiles/SA_P1.dir/mainwindow.cpp.obj	f06c0a0ce83a96af
+20580	22661	7421151954167950	SA_P1.exe	3b5a4f822d032659
+106	541	7421157044117887	SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+106	541	7421157044117887	SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+106	541	7421157044117887	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+106	541	7421157044117887	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+543	12936	7421157048473737	CMakeFiles/SA_P1.dir/mainwindow.cpp.obj	f06c0a0ce83a96af
+12936	14302	7421157172409404	SA_P1.exe	3b5a4f822d032659
+61	966	7421157983188436	SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+61	966	7421157983188436	SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+61	966	7421157983188436	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+61	966	7421157983188436	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+968	14309	7421157992257547	CMakeFiles/SA_P1.dir/mainwindow.cpp.obj	f06c0a0ce83a96af
+14309	16120	7421158125669103	SA_P1.exe	3b5a4f822d032659
+66	349	7421169661963945	SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+66	349	7421169661963945	SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+66	349	7421169661963945	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/timestamp	1c6fb7ca05314ea0
+66	349	7421169661963945	C:/Users/SAYAN SYS/Documents/SA_P1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SA_P1_autogen/mocs_compilation.cpp	1c6fb7ca05314ea0
+351	11542	7421169664809596	CMakeFiles/SA_P1.dir/mainwindow.cpp.obj	f06c0a0ce83a96af
+11543	12558	7421169776729601	SA_P1.exe	3b5a4f822d032659
